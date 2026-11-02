@@ -1,3 +1,6 @@
 snn_env/
 data/
 __pycache__/
+*.aux
+*.log
+*.out
